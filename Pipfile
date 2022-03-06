@@ -6,10 +6,10 @@ name = "pypi"
 [packages]
 pyglet = "*"
 pymunk = "*"
-jedi = "*"
-flake8 = "*"
 
 [requires]
 python_version = "*"
 
 [dev-packages]
+jedi = "*"
+flake8 = "*"
