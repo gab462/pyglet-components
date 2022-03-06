@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyglet = "*"
+pymunk = "*"
+jedi = "*"
+flake8 = "*"
+
+[requires]
+python_version = "*"
+
+[dev-packages]

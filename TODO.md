@@ -1,0 +1,3 @@
+- Asteroid - Circle shape, polygon with noise
+- Collision detection? (Should be taken care of by pymunk)
+- Start screen
