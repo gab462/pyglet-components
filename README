@@ -1,0 +1,5 @@
+Asteroids clone with Python + Pyglet + Pymunk
+
+Control:
+W - Accelerate
+A/D - Turn
